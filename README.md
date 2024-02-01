@@ -1,0 +1,3 @@
+# InCo-Aggregation
+The official source codes for ICLR2024 paper, "Internal Cross-layer Gradients for Extending Homogeneity to Heterogeneity in Federated Learning".
+Coming soon...
