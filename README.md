@@ -104,7 +104,7 @@ More results
 
 ## Contributing
 
-For the baselines from FedProx, Scaffold, FedNova, and MOON, please refer to the source codes from https://github.com/Xtra-Computing/NIID-Bench
+For the baselines called FedProx, Scaffold, FedNova, and MOON, please refer to the source codes from https://github.com/Xtra-Computing/NIID-Bench
 
 For the baselines from FL of system heterogeneous, please refer to the source codes from HeteroFL: https://github.com/diaoenmao/HeteroFL-Computation-and-Communication-Efficient-Federated-Learning-for-Heterogeneous-Clients, ScaleFL: https://github.com/blockchain-systems/ScaleSFL, and FedRolex: https://github.com/AIoT-MLSys-Lab/FedRolex .
 
