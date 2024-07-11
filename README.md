@@ -116,11 +116,11 @@ If you find the paper provides some insights or our code useful, please consider
 
 ```
 @inproceedings{
-    chan2024internal,
-    title={Internal Cross-layer Gradients for Extending Homogeneity to Heterogeneity in Federated Learning},
-    author={Yun-Hin Chan and Rui Zhou and Running Zhao and Zhihan JIANG and Edith C. H. Ngai},
-    booktitle={The Twelfth International Conference on Learning Representations},
-    year={2024},
-    url={https://openreview.net/forum?id=Cc0qk6r4Nd}
+chan2024internal,
+title={Internal Cross-layer Gradients for Extending Homogeneity to Heterogeneity in Federated Learning},
+author={Yun-Hin Chan and Rui Zhou and Running Zhao and Zhihan JIANG and Edith C. H. Ngai},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=Cc0qk6r4Nd}
 }
 ```
